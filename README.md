@@ -1,6 +1,26 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
-   
+
+# Reflections
+
+The Path Planning Project was very informative project; it helped me properly code a path plan for the vehicle. Making sure the car performed proper transitions from one lane to the other and how the car avoided other vehicles, like for example checking that there were no other cars in the other lane.
+
+Following the rubric I made sure that the car was programmed to do the following:
+- Perform no collusions
+- Avoid jerks
+- Not exceeding the acceleration point
+- Maintaining proper speed
+- Driving in the lanes
+- Smooth transition into other lanes 
+- Making sure transition is less than 3 seconds
+
+Overall the project was a challenge, but it was a lot of fun figuring out the bugs and right manoeuvres for the car to make a proper lane change. 
+
+Here is my output of the Path Planning Project
+
+[![Self-Driving Car](https://github.com/TheAisBack/Path-Planning/blob/master/path-planning-image.png)](https://www.youtube.com/watch?v=-P6gYZzTb74&feature=youtu.be "Udacity Self-Driving Car")
+
+
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases).
 
