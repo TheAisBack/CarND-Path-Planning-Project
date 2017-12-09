@@ -18,7 +18,7 @@ Overall the project was a challenge, but it was a lot of fun figuring out the bu
 
 Here is my output of the Path Planning Project
 
-[![Self-Driving Car](https://github.com/TheAisBack/Path-Planning/blob/master/path-planning-image.png)](https://www.youtube.com/watch?v=-P6gYZzTb74&feature=youtu.be "Udacity Self-Driving Car")
+[![Path Planning Project Video](https://github.com/TheAisBack/Path-Planning/blob/master/path-planning-image.png)](https://www.youtube.com/watch?v=-P6gYZzTb74&feature=youtu.be "Udacity Self-Driving Car")
 
 
 ### Simulator.
